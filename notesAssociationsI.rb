@@ -3,7 +3,7 @@ test
 # Use assocations to model one-to-many relationships.
 # 1.Adding More Data
 # https://help.github.com/articles/generating-an-ssh-key/
-
+$ sudo find / -name ".ssh"
 # 2.Models I
 # 3.Models II
 # 4.Display all tags
